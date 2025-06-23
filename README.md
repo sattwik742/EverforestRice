@@ -9,9 +9,16 @@ Everforest Rice on Ubuntu 22.04.5 LTS
 
 
 #### Terminal
-- Kitty
 
+- Kitty
 ```
 sudo apt install kitty
+```
+
+#### Menu Launcher
+
+- Rofi
+```
+sudo apt install rofi
 ```
 
