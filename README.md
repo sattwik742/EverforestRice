@@ -1,2 +1,5 @@
 # EverforestRice
 Everforest Rice on Ubuntu 22.04.5 LTS
+
+
+![Logo](Images/image.png)
