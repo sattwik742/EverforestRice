@@ -1,8 +1,10 @@
 # EverforestRice
 Everforest Rice on Ubuntu 22.04.5 LTS
 
-## Sample Image
+## Showcase
 ![](Images/Sample.png)
+---
+![](Images/Sample2.png)
 
 ### Dependecies
 ---
