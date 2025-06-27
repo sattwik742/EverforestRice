@@ -22,3 +22,9 @@ sudo apt install kitty
 sudo apt install rofi
 ```
 
+#### Desktop Widget
+
+- Conky
+```
+sudo apt install conky jq curl moc lua5.3 playerctl
+
