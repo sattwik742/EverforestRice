@@ -27,4 +27,4 @@ sudo apt install rofi
 - Conky
 ```
 sudo apt install conky jq curl moc lua5.3 playerctl
-
+```
